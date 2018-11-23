@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\bin\Debug\ParserFunctions.exe.config
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\bin\Debug\ParserFunctions.exe
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\bin\Debug\ParserFunctions.pdb
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\bin\Debug\MathParser.org-mXparser.Net461.dll
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.Properties.Resources.resources
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.csproj.CopyComplete
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.exe
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.pdb
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.FormMain.resources
+C:\Users\User\source\repos\ParserFunctions\ParserFunctions\obj\Debug\ParserFunctions.FormGraphics.resources
